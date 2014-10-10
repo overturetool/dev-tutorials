@@ -11,8 +11,8 @@ install'. You will get test failures when building but that's intentional.
 ## More Information
 
 The main Overture repository is at https://github.com/overturetool/overture.
-Information about these projects is available in various guide on the developer
-wiki. It is recommended you start by reading those.
+Its wiki contains various guides that use these projects. It is recommended you start
+by reading those guides.
 
 If you'd like general information about the Overture Project, please visit
 http://overturetool.org.

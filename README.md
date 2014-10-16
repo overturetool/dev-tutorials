@@ -4,8 +4,8 @@ This repository holds auxiliary projects with exercises and tutorials for new
 Overture Developers. These projects support the Overture developer guides and
 are not meant to be used on their own.
 
-To use these projects, checkout the repository and build the projects with 'mvn
-install'. You will get test failures when building but that's intentional.
+To use these projects, checkout the repository and build the projects with `mvn
+install`. You will get test failures when building but that's intentional.
 
 
 ## More Information

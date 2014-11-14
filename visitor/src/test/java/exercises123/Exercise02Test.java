@@ -1,4 +1,4 @@
-package visitor;
+package exercises123;
 
 import static org.junit.Assert.*;
 
@@ -10,6 +10,8 @@ import org.overture.ast.lex.Dialect;
 import org.overture.ast.modules.AModuleModules;
 import org.overture.ast.node.INode;
 import org.overture.core.tests.ParseTcFacade;
+
+import exercises123.Exercise02Visitor;
 
 public class Exercise02Test {
 

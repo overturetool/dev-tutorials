@@ -1,4 +1,4 @@
-package visitor;
+package exercises123;
 
 import static org.junit.Assert.assertEquals;
 
@@ -6,6 +6,8 @@ import org.junit.Test;
 import org.overture.ast.analysis.AnalysisException;
 import org.overture.ast.expressions.PExp;
 import org.overture.core.tests.ParseTcFacade;
+
+import exercises123.Exercise01Visitor;
 
 public class Exercise01Test {
 

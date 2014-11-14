@@ -1,4 +1,4 @@
-package visitor;
+package exercises123;
 
 import org.overture.ast.analysis.AnalysisAdaptor;
 
